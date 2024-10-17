@@ -1,6 +1,6 @@
 # Taller2_typescript
 
-¡Bienvenido al repositorio del Taller 1 de TypeScript!
+¡Bienvenido al repositorio del Taller 2 de TypeScript!
 
 ## 📋 Información del autor
 
@@ -9,4 +9,4 @@
 
 ## 🛠️ Descripción
 
-Este proyecto fue creado como solucion del Taller 2 de TypeScript. Aquí se exploran mas conceptos claves de TypeScript.
+Este proyecto fue creado como solucion del Taller 2 de TypeScript. Aquí se exploran mas conceptos clave de TypeScript.
